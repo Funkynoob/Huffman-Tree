@@ -1,0 +1,7 @@
+#忽略dev-cpp产生的工程文件
+*.layout
+*.o
+*.win
+*.dev
+#忽略可执行文件
+*.exe
